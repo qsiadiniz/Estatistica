@@ -3,7 +3,7 @@
 ## 🧑‍💻 Autores  
 - Quesia Diniz Correia (202421250022) - diniz.quesia@academico.ifpb.edu.br
 - Letícia Firmino Eulálio (202421250016) - letícia.firmino@academico.ifpb.edu.br
-- 
+  
 ## 🎯 Tema e Motivação  
 Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
 Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
